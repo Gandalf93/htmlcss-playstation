@@ -14,3 +14,13 @@
     background-color: black;
 }
 
+.jumbo_height{
+    height: 300px;
+    background-color: greenyellow;
+}
+
+.box{
+    height: 100px;
+    background-color: greenyellow;
+    margin: 10px;
+}
