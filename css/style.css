@@ -39,6 +39,10 @@
 .b_radius img{
     border-radius: 30px;
 }
+.b_radius30{
+    border-radius: 30px;
+    
+}
 
 .black{
     background-color: black;
