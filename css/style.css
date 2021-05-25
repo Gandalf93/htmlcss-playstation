@@ -19,6 +19,19 @@
     height: 600px;
 }
 
+.opacity{
+    opacity: 0.5;
+}
+.opacity:hover{
+    opacity: unset;
+    border-bottom: 1px solid blue;
+}
+
+.transform:hover{
+    transform: translate(10px, -10px);
+}
+
+
 .bgc_grigioscuro{
     background-color: #1F1F1F;
 }
@@ -28,10 +41,13 @@
 .bgc_blu{
     background-color: #00439C;
 }
-
+.black{
+    background-color: black;
+}
 .bgc_bluscuro{
     background-color: #161C3B;
 }
+
 .navbar{
     width: 100%;
 }
@@ -41,13 +57,7 @@
 }
 .b_radius30{
     border-radius: 30px;
-    
 }
-
-.black{
-    background-color: black;
-}
-
     
 .globe_foot{
     height: 20px;
@@ -56,6 +66,10 @@
 }
 .sony_foot_logo{
     height: 50px;
-    
 }
 
+
+
+    
+
+    
