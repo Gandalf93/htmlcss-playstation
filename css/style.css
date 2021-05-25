@@ -48,8 +48,25 @@
     background-color: #161C3B;
 }
 
-.navbar{
+header{
     width: 100%;
+    top: 0;
+    z-index: 1;
+}
+.header_top img{
+    height: 50px;
+    width: 100px;
+}
+
+.navbar{
+    height: 100px;
+}
+.nav-item a{
+    color: black;
+}
+
+.jumbotron{
+    margin-top: 150px;
 }
 
 .b_radius img{
